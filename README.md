@@ -15,7 +15,7 @@ An AI engine combining **LangChain/GPT-4o** and **PySwip (Prolog)** using **Lang
    pip install -r requirements.txt
 3. **Set Your API Key**:
    ```bash
-    export OPENAI_API_KEY="your-api-key
+    export OPENAI_API_KEY="your-api-key"
 3. **RUN**:
    ```bash
    python 3 main.py
