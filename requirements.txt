@@ -1,8 +1,5 @@
-langchain>=0.2.0
-langchain-community>=0.2.0
-langchain-openai>=0.1.0
-langgraph>=0.1.0
-pyswip>=0.2.10
-faiss-cpu>=1.7.4
-openai>=1.0.0
-weasyprint>=60.0
+langgraph
+langchain-openai
+langchain-community
+faiss-cpu
+pyswip
