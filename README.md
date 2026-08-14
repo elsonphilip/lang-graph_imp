@@ -18,4 +18,4 @@ An AI engine combining **LangChain/GPT-4o** and **PySwip (Prolog)** using **Lang
     export OPENAI_API_KEY="your-api-key"
 3. **RUN**:
    ```bash
-   python 3 main.py
+   python3 main.py
